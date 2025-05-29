@@ -1,5 +1,9 @@
 # **EchoSentiment**
 
+Disclaimer: AI was utilized to assist in the generation of some segments of code.
+
+The below instructions are for running the webscraper API prototypes:
+
 ### Discaimer: These instructions have been revised with the assistance of AI for clarity. ###
 
 ## **Twitter API Requirements**  
