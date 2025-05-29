@@ -3,7 +3,7 @@
 The below instructions are for running the webscraper API prototypes:
 
 
-Disclaimer: AI was utilized to assist in the generation of some segments of code.
+Disclaimer: AI was utilized to assist in the generation/refinement of some segments of code.
 
 ## **Twitter API Requirements**  
 
